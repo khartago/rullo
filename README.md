@@ -51,14 +51,14 @@ npm run dev
 git init
 git add .
 git commit -m "El Rulo tournament site"
-git remote add origin https://github.com/<user>/el-rullo.git
+git remote add origin https://github.com/khartago/rullo.git
 git push -u origin main
 ```
 
 ### 4. Déployer sur Render
 
 1. Ouvrir le Blueprint :  
-   `https://dashboard.render.com/blueprint/new?repo=https://github.com/<user>/el-rullo`
+   `https://dashboard.render.com/blueprint/new?repo=https://github.com/khartago/rullo`
 2. Renseigner les secrets :
    - `ADMIN_PASSWORD` — mot de passe admin fort
    - `NEXT_PUBLIC_SITE_URL` — `https://el-rullo.onrender.com` (URL Render finale)

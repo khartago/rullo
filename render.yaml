@@ -9,7 +9,7 @@ databases:
 
 services:
   - type: web
-    name: el-rullo
+    name: el-rulo
     runtime: node
     plan: free
     region: frankfurt

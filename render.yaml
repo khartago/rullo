@@ -1,0 +1,36 @@
+# El Rullo — Render Blueprint
+# Apply via: https://dashboard.render.com/blueprint/new?repo=<YOUR_GITHUB_REPO_URL>
+
+databases:
+  - name: el-rullo-db
+    databaseName: elrullo
+    user: elrullo
+    plan: free
+    postgresMajorVersion: "16"
+    ipAllowList: []
+
+services:
+  - type: web
+    name: el-rullo
+    runtime: node
+    plan: free
+    region: frankfurt
+    branch: main
+    autoDeploy: true
+    buildCommand: npm ci && npx prisma db push && npm run build
+    startCommand: npm start
+    releaseCommand: npm run db:seed
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: el-rullo-db
+          property: connectionString
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: AUTH_SECRET
+        generateValue: true
+      - key: NEXT_PUBLIC_SITE_URL
+        sync: false

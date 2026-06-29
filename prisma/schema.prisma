@@ -1,0 +1,73 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Category {
+  id           String         @id @default(cuid())
+  slug         String         @unique
+  nameFr       String
+  nameEn       String
+  gender       String
+  level        String
+  bracketSize  Int
+  sortOrder    Int            @default(0)
+  phases       BracketPhase[]
+  createdAt    DateTime       @default(now())
+}
+
+model BracketPhase {
+  id         String   @id @default(cuid())
+  categoryId String
+  category   Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  phase      String
+  labelFr    String
+  labelEn    String
+  matches    Match[]
+
+  @@unique([categoryId, phase])
+}
+
+model Match {
+  id             String       @id @default(cuid())
+  bracketPhaseId String
+  bracketPhase   BracketPhase @relation(fields: [bracketPhaseId], references: [id], onDelete: Cascade)
+  round          Int
+  position       Int
+  court          Int?
+  scheduledAt    DateTime?
+  status         String       @default("scheduled")
+  teamAPlayer1   String?
+  teamAPlayer2   String?
+  teamBPlayer1   String?
+  teamBPlayer2   String?
+  teamASeed      Int?
+  teamBSeed      Int?
+  isTeamAWc      Boolean      @default(false)
+  isTeamBWc      Boolean      @default(false)
+  isTeamABye     Boolean      @default(false)
+  isTeamBBye     Boolean      @default(false)
+  set1A          Int?
+  set1B          Int?
+  set2A          Int?
+  set2B          Int?
+  set3A          Int?
+  set3B          Int?
+  superTbA       Int?
+  superTbB       Int?
+  winnerSide     String?
+  qualSlot       String?
+  parentMatchId  String?
+  parentSlot     String?
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
+
+  @@unique([bracketPhaseId, round, position])
+  @@index([bracketPhaseId])
+  @@index([status])
+  @@index([scheduledAt])
+}

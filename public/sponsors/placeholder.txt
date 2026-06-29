@@ -1,0 +1,5 @@
+export const SPONSOR_SVGS: Record<string, string> = {
+  nouvelair: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40"><text x="10" y="28" fill="white" font-family="Arial" font-weight="bold" font-size="22">nouvelair</text></svg>`,
+  toyota: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40"><text x="30" y="30" fill="white" font-family="Arial" font-weight="bold" font-size="26">TOYOTA</text></svg>`,
+  bullpadel: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40"><text x="10" y="28" fill="white" font-family="Arial" font-weight="bold" font-size="20">Bullpadel</text></svg>`,
+};

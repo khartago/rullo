@@ -1,0 +1,15 @@
+# Local PostgreSQL (matches Render production)
+services:
+  postgres:
+    image: postgres:16-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: elrullo
+      POSTGRES_PASSWORD: elrullo
+      POSTGRES_DB: elrullo
+    volumes:
+      - elrullo_pg:/var/lib/postgresql/data
+
+volumes:
+  elrullo_pg:

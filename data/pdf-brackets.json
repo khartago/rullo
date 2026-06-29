@@ -1,0 +1,2937 @@
+{
+  "source": "c:\\Users\\rayen\\AppData\\Local\\Packages\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\\LocalState\\sessions\\120430BCEC9BE273AE5788778C3371E4BE1176F4\\transfers\\2026-26\\El_RuLO.pdf",
+  "categories": {
+    "p50": {
+      "qualification": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "BEN SLAMA Mohamed ali",
+              "player2": "MAHDI Ben slama",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "MAHJOUB Anis",
+              "player2": "CHARFEDDINE Anis",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 10
+            },
+            "qualSlot": "Q1"
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "BOUATAY Montassar",
+              "player2": "SKIK Yahia",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "BEN SALEM Oussama",
+              "player2": "ZOUARI Achref",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 4,
+              "set2A": 6,
+              "set2B": 3,
+              "winnerSide": "B",
+              "status": "completed"
+            },
+            "qualSlot": "Q2"
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "AROUA Hamza",
+              "player2": "ABDELMALEK Houssem eddin",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "SOUISSI Slim",
+              "player2": "AYEDI Momtez",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 12
+            },
+            "score": {
+              "set1A": 3,
+              "set1B": 6,
+              "set2A": 6,
+              "set2B": 4,
+              "superTbA": 10,
+              "superTbB": 8,
+              "winnerSide": "B",
+              "status": "completed"
+            },
+            "qualSlot": "Q3"
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "HADJ AMMAR Raif",
+              "player2": "KHAYECHE Slim",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 15
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "BEN HSSAN Mohamed",
+              "player2": "TALHA MZALI Taoufik",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 16
+            },
+            "qualSlot": "Q4"
+          },
+          {
+            "round": 1,
+            "position": 9,
+            "teamA": {
+              "player1": "BELHADJ Skander selim",
+              "player2": "GUERMAZI Nassim",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 10,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "ACHOUR Fethi",
+              "player2": "ACHOUR Racem",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 13
+            },
+            "score": {
+              "set1A": 7,
+              "set1B": 5,
+              "set2A": 3,
+              "set2B": 6,
+              "superTbA": 10,
+              "superTbB": 6,
+              "winnerSide": "B",
+              "status": "completed"
+            },
+            "qualSlot": "Q5"
+          },
+          {
+            "round": 1,
+            "position": 11,
+            "teamA": {
+              "player1": "BOUZIR Mohamed khalil",
+              "player2": "BOUZIR Mahdi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 12,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "FEHMI Kacem",
+              "player2": "TRABELSI Aymen",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 12
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 2,
+              "set2A": 7,
+              "set2B": 5,
+              "winnerSide": "B",
+              "status": "completed"
+            },
+            "qualSlot": "Q6"
+          },
+          {
+            "round": 1,
+            "position": 13,
+            "teamA": {
+              "player1": "GLISSA Laith",
+              "player2": "LAARIF Ali",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 14,
+            "teamA": {
+              "player1": "GZARA Mohamed amer",
+              "player2": "AHMED Zayen",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 18
+            },
+            "teamB": {
+              "player1": "DAHMANI Nabil",
+              "player2": "SEGNI Youssef",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 9
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 1,
+              "set2A": 6,
+              "set2B": 4,
+              "winnerSide": "A",
+              "status": "completed"
+            },
+            "qualSlot": "Q7"
+          },
+          {
+            "round": 1,
+            "position": 15,
+            "teamA": {
+              "player1": "BOUGHZALA Anas",
+              "player2": "CHNEN Khalil",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 29
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 16,
+            "teamA": {
+              "player1": "BEN AMMAR Najd",
+              "player2": "BEN AMMAR Fahd",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 15
+            },
+            "teamB": {
+              "player1": "DEBBABI Hassen",
+              "player2": "BEN ABDALLAH Salem",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 16
+            },
+            "score": {
+              "status": "walkover",
+              "winnerSide": "B"
+            },
+            "qualSlot": "Q8"
+          }
+        ]
+      },
+      "final": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "ABDELLATIF Haykel",
+              "player2": "GALAI Mohamed",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "AROUA Hamza",
+              "player2": "ABDELMALEK Houssem eddin",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 27
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "MOTAMRI Ismail",
+              "player2": "GUELLIM Mohamed ilyess",
+              "isBye": false,
+              "isWildCard": false
+            },
+            "teamB": {
+              "player1": "TBD",
+              "player2": "Q1",
+              "isBye": false,
+              "isWildCard": false
+            }
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "EL HANI Youssef",
+              "player2": "MEHDWI Mohamed hamza",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 11
+            },
+            "teamB": {
+              "player1": "SAHBANI Mehdi",
+              "player2": "BELHADJ Yassine",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 14
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "HIZEM Mourad",
+              "player2": "YASSINE Baoueb",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 9
+            },
+            "teamB": {
+              "player1": "HAFSA Marouen",
+              "player2": "KALEL Wael",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            },
+            "score": {
+              "set1A": 1,
+              "set1B": 6,
+              "set2A": 1,
+              "set2B": 6,
+              "winnerSide": "B",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "ZAOUI Mondher",
+              "player2": "CHENITI Wajdi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            },
+            "teamB": {
+              "player1": "BASSEM Bennani",
+              "player2": "ROUATBI Mohamed",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 17
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "TBD",
+              "player2": "Q4",
+              "isBye": false,
+              "isWildCard": false
+            },
+            "teamB": {
+              "player1": "KRID Mounir",
+              "player2": "BEN GHORBAL Anas",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 9
+            }
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "BOURKHIS Oussama",
+              "player2": "KANTAOUI Nessim",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 10
+            },
+            "teamB": {
+              "player1": "GZARA Mohamed amer",
+              "player2": "AHMED Zayen",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 31
+            },
+            "score": {
+              "set1A": 5,
+              "set1B": 8,
+              "set2A": 10,
+              "set2B": 0,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "MOATEMRI Mehdi",
+              "player2": "HALILA Ahmed",
+              "isBye": false,
+              "isWildCard": true
+            },
+            "teamB": {
+              "player1": "SAFTA Souhaiel",
+              "player2": "ALLEGUE Selim",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 9,
+            "teamA": {
+              "player1": "MASMOUDI Nizar",
+              "player2": "KAMOUN Mohamed amin",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            },
+            "teamB": {
+              "player1": "YOUSSEF Mkaouar",
+              "player2": "HAFSA Malek",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 13
+            }
+          },
+          {
+            "round": 1,
+            "position": 10,
+            "teamA": {
+              "player1": "BEN SALEM Oussama",
+              "player2": "ZOUARI Achref",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 26
+            },
+            "teamB": {
+              "player1": "WERDA Mohamed",
+              "player2": "BEN MOULAY HSSAN Omar",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 16
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 11,
+            "teamA": {
+              "player1": "MANAA Mohamed",
+              "player2": "SLAMA Mohamed aziz",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 19
+            },
+            "teamB": {
+              "player1": "SAIES Ahmed nawfel",
+              "player2": "ABDERRAZEK Ghazi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 16
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 12,
+            "teamA": {
+              "player1": "ACHOUR Fethi",
+              "player2": "ACHOUR Racem",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 29
+            },
+            "teamB": {
+              "player1": "DOUDECH Mohamed",
+              "player2": "BELKHIRIA Mehdi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 28
+            }
+          },
+          {
+            "round": 1,
+            "position": 13,
+            "teamA": {
+              "player1": "SAFTA Salaheddine",
+              "player2": "BROUR Bassem",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            },
+            "teamB": {
+              "player1": "REMADY Haykel",
+              "player2": "FRIGUI Achraf",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 18
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 3,
+              "set2A": 6,
+              "set2B": 4,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 14,
+            "teamA": {
+              "player1": "CHAMLI Mohamed youssef",
+              "player2": "GUEN Nizar",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 10
+            },
+            "teamB": {
+              "player1": "FEHMI Kacem",
+              "player2": "TRABELSI Aymen",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 30
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 15,
+            "teamA": {
+              "player1": "GONGI Tarek",
+              "player2": "JEBALI Badreddine",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 11
+            },
+            "teamB": {
+              "player1": "BOUSLAMA Mohamed amine",
+              "player2": "TARMIZ Amine",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 13
+            },
+            "score": {
+              "set1A": 7,
+              "set1B": 5,
+              "set2A": 6,
+              "set2B": 4,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 16,
+            "teamA": {
+              "player1": "BOUGHZALA Anas",
+              "player2": "CHNEN Khalil",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 32
+            },
+            "teamB": {
+              "player1": "MAJDOUB Salem",
+              "player2": "KENZIZI Aziz",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 2
+            },
+            "score": {
+              "set1A": 7,
+              "set1B": 0,
+              "set2A": 11,
+              "set2B": 0,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          }
+        ]
+      }
+    },
+    "p100": {
+      "qualification": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "REKIK Yassine",
+              "player2": "MAALEJ Walid",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 25
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "qualSlot": "Q1"
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "GALAI Mohamed",
+              "player2": "SAYADI Youssef",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 2
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "GHEDIRA Yassine",
+              "player2": "HABIB Mustapha",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 15
+            },
+            "qualSlot": "Q2"
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "HANDOUS Ameur",
+              "player2": "BENZARTI Houssem",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "ABBES Walid",
+              "player2": "HARZALLAH Anis",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 12
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 2,
+              "set2A": 6,
+              "set2B": 3,
+              "winnerSide": "B",
+              "status": "completed"
+            },
+            "qualSlot": "Q3"
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "HAFSA Marouen",
+              "player2": "KALEL Wael",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "BOUZIR Mohamed khali",
+              "player2": "HASSANI Bahaeddine",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 14
+            },
+            "score": {
+              "set1A": 2,
+              "set1B": 6,
+              "set2A": 6,
+              "set2B": 0,
+              "superTbA": 10,
+              "superTbB": 6,
+              "winnerSide": "B",
+              "status": "completed"
+            },
+            "qualSlot": "Q4"
+          },
+          {
+            "round": 1,
+            "position": 9,
+            "teamA": {
+              "player1": "MEMMI Houssem",
+              "player2": "BEN HAMIDA Rami",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 10,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "YOUSSEF Mkaouar",
+              "player2": "MASMOUDI Nizar",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 13
+            },
+            "score": {
+              "set1A": 7,
+              "set1B": 5,
+              "set2A": 4,
+              "set2B": 6,
+              "superTbA": 10,
+              "superTbB": 8,
+              "winnerSide": "B",
+              "status": "completed"
+            },
+            "qualSlot": "Q5"
+          },
+          {
+            "round": 1,
+            "position": 11,
+            "teamA": {
+              "player1": "MEKKI Malek",
+              "player2": "LAZHARI Ismail",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 12,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "HIZEM Mourad",
+              "player2": "SAFTA Souhaiel",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 10
+            },
+            "qualSlot": "Q6"
+          },
+          {
+            "round": 1,
+            "position": 13,
+            "teamA": {
+              "player1": "ZIDI Mohamed",
+              "player2": "KAMOUN Marouen",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 14,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "AHMED AMINE Lasmar",
+              "player2": "TAGINA Zied",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 9
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 3,
+              "set2A": 6,
+              "set2B": 3,
+              "winnerSide": "B",
+              "status": "completed"
+            },
+            "qualSlot": "Q7"
+          },
+          {
+            "round": 1,
+            "position": 15,
+            "teamA": {
+              "player1": "SAFTA Salaheddine",
+              "player2": "YASSINE Baoueb",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 16,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "AHMED Bouden",
+              "player2": "SKANDER Houssine",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 11
+            },
+            "score": {
+              "set1A": 7,
+              "set1B": 5,
+              "set2A": 7,
+              "set2B": 6,
+              "winnerSide": "B",
+              "status": "completed"
+            },
+            "qualSlot": "Q8"
+          }
+        ]
+      },
+      "final": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "ABDELKEFI Aziz",
+              "player2": "BEN SALAH Youssef",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "SAFTA Salaheddine",
+              "player2": "YASSINE Baoueb",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 32
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "SBAA Majed",
+              "player2": "GMAR Mohamed",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 12
+            },
+            "teamB": {
+              "player1": "NSIR Mohamed akram",
+              "player2": "FETNI Fadhl",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 11
+            }
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "REKIK Yassine",
+              "player2": "MAALEJ Walid",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 25
+            },
+            "teamB": {
+              "player1": "BELKHIRIA Mehdi",
+              "player2": "SOYAH Yassin",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 23
+            },
+            "score": {
+              "set1A": 7,
+              "set1B": 6,
+              "set2A": 6,
+              "set2B": 4,
+              "winnerSide": "B",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "TBD",
+              "player2": "Q2",
+              "isBye": false,
+              "isWildCard": false
+            },
+            "teamB": {
+              "player1": "ABDERRAZEK Ghazi",
+              "player2": "SASSI Mossaab",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            }
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "EL KISSI Mehdi",
+              "player2": "JEMMALI Frej",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            },
+            "teamB": {
+              "player1": "HAFSA Marouen",
+              "player2": "KALEL Wael",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 28
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "GOMRI Ghayth",
+              "player2": "BEN SAAD Rabie",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 17
+            },
+            "teamB": {
+              "player1": "HAZEM Sakly",
+              "player2": "BEN HASSEN Mohamed amine",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 10
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 5,
+              "set2A": 6,
+              "set2B": 4,
+              "winnerSide": "B",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "KENZIZI Aziz",
+              "player2": "KLAI Yassin",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 22
+            },
+            "teamB": {
+              "player1": "TBD",
+              "player2": "Q6",
+              "isBye": false,
+              "isWildCard": false
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "YOUSSEF Mkaouar",
+              "player2": "MASMOUDI Nizar",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 29
+            },
+            "teamB": {
+              "player1": "GOUIDER Kais",
+              "player2": "SASSI Ramzi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            }
+          },
+          {
+            "round": 1,
+            "position": 9,
+            "teamA": {
+              "player1": "MOKNI Hedi",
+              "player2": "LAATIRI Amine",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            },
+            "teamB": {
+              "player1": "AHMED AMINE Lasmar",
+              "player2": "TAGINA Zied",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 31
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 3,
+              "set2A": 6,
+              "set2B": 4,
+              "winnerSide": "B",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 10,
+            "teamA": {
+              "player1": "CHEHATA Naim",
+              "player2": "CHERIF Helmi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 19
+            },
+            "teamB": {
+              "player1": "SEKLANI FARES",
+              "player2": "KRICHEN Mohamed",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 24
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 0,
+              "set2A": 6,
+              "set2B": 4,
+              "winnerSide": "B",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 11,
+            "teamA": {
+              "player1": "HASSINE Hamdi",
+              "player2": "BEN SALEM Neji",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 9
+            },
+            "teamB": {
+              "player1": "JEBALI Badredine",
+              "player2": "MOUSSA Marwen",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 20
+            }
+          },
+          {
+            "round": 1,
+            "position": 12,
+            "teamA": {
+              "player1": "CHEBIL Ilyes",
+              "player2": "BACCOUCHE Amine",
+              "isBye": false,
+              "isWildCard": false
+            },
+            "teamB": {
+              "player1": "BOUDAOUA Rayen",
+              "player2": "DJOMAA Oussema",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 1,
+              "set2A": 7,
+              "set2B": 5,
+              "winnerSide": "B",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 13,
+            "teamA": {
+              "player1": "KARKACH Rayen",
+              "player2": "BRAHEM Ahmed",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            },
+            "teamB": {
+              "player1": "ALLEGUE Selim",
+              "player2": "BENJENNET Mongi karim",
+              "isBye": false,
+              "isWildCard": false
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 4,
+              "set2A": 6,
+              "set2B": 0,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 14,
+            "teamA": {
+              "player1": "DARDOURI Amen",
+              "player2": "DARDOURI Adem",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 21
+            },
+            "teamB": {
+              "player1": "HANDOUS Ameur",
+              "player2": "BENZARTI Houssem",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 27
+            },
+            "score": {
+              "status": "walkover",
+              "winnerSide": "B"
+            }
+          },
+          {
+            "round": 1,
+            "position": 15,
+            "teamA": {
+              "player1": "MZIHI Sadok",
+              "player2": "BOURAOUI Hichem",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 14
+            },
+            "teamB": {
+              "player1": "MATHLOUTHI Aymen",
+              "player2": "DOURA Yamen",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 13
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 3,
+              "set2A": 6,
+              "set2B": 2,
+              "winnerSide": "B",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 16,
+            "teamA": {
+              "player1": "EL HANI Anwar",
+              "player2": "SAIDI Fahd",
+              "isBye": false,
+              "isWildCard": false
+            },
+            "teamB": {
+              "player1": "BEJAOUI Souheil",
+              "player2": "BRICK Rami",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 2
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 3,
+              "set2A": 6,
+              "set2B": 7,
+              "set3A": 4,
+              "set3B": 11,
+              "winnerSide": "B",
+              "status": "completed"
+            }
+          }
+        ]
+      }
+    },
+    "p250": {
+      "final": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "EL EUCH Omar",
+              "player2": "SEKLANI Fares",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "JEMMALI Frej",
+              "player2": "BEN CHEIKH FREDJ Mohamed",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 9
+            },
+            "teamB": {
+              "player1": "BEJAOUI Souheil",
+              "player2": "BRICK Rami",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 18
+            }
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "BADRI Hichem",
+              "player2": "TRIKI Arbi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 15
+            },
+            "teamB": {
+              "player1": "JEDIDI Mohamed",
+              "player2": "FENINA Elyes",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 25
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "BEN ARFI Adam",
+              "player2": "BEN ARFI Bediss",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 12
+            },
+            "teamB": {
+              "player1": "MESSELMANI Taha",
+              "player2": "BEN HASSEN Mohamed amine",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "KADDOUR Faycel",
+              "player2": "BENJENNET Mongi karim",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "BEN SAAD Rabie",
+              "player2": "OMRANI Assil",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 10
+            },
+            "teamB": {
+              "player1": "KAMOUN Mohamed amin",
+              "player2": "MAALEJ Walid",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 24
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 4,
+              "set2A": 6,
+              "set2B": 2,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "BEN SALEM Neji",
+              "player2": "NSIR Mohamed akram",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 17
+            },
+            "teamB": {
+              "player1": "GMAR Mohamed",
+              "player2": "SAIDI Fahd",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 20
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "MEMMI Houssem",
+              "player2": "CHERIF Helmi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 23
+            },
+            "teamB": {
+              "player1": "AMMAR Scander",
+              "player2": "ABDELKEFI Aziz",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 2,
+              "set2A": 7,
+              "set2B": 5,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 9,
+            "teamA": {
+              "player1": "TOUMI Mohamed aziz",
+              "player2": "FENDRI Hedi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 10,
+            "teamA": {
+              "player1": "REKIK Yassine",
+              "player2": "MEZGHANNI Daly",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 21
+            },
+            "teamB": {
+              "player1": "KHAL LTAIEF Mohamed",
+              "player2": "BACCOUCHE Mohamed",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 19
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 11,
+            "teamA": {
+              "player1": "LOUHICHI Adam",
+              "player2": "DOURA Yamen",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 14
+            },
+            "teamB": {
+              "player1": "MEKKI Malek",
+              "player2": "LAZHARI Ismail",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 26
+            }
+          },
+          {
+            "round": 1,
+            "position": 12,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "RABOUDI Talel",
+              "player2": "BOUHAMED Ayoub",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 3,
+              "set2A": 6,
+              "set2B": 2,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 13,
+            "teamA": {
+              "player1": "CHEBIL Mouadh",
+              "player2": "CHEBIL Ilyes",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 14,
+            "teamA": {
+              "player1": "FRIKHA Bilel",
+              "player2": "KRICHEN Mohamed",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 22
+            },
+            "teamB": {
+              "player1": "MOUSSA Marwen",
+              "player2": "ZRIBI Rayen",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 16
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 15,
+            "teamA": {
+              "player1": "BOUDAOUA Rayen",
+              "player2": "BEN CHIEKH Leith",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 11
+            },
+            "teamB": {
+              "player1": "CHIKHAOUI Yassine",
+              "player2": "SASSI Mossaab",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 13
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 16,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "SASSI Moez",
+              "player2": "BOUBAKER Youssef",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 2
+            },
+            "score": {
+              "set1A": 6,
+              "set1B": 0,
+              "set2A": 6,
+              "set2B": 0,
+              "winnerSide": "B",
+              "status": "completed"
+            }
+          }
+        ]
+      }
+    },
+    "p500": {
+      "final": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "GONGI Hedi",
+              "player2": "BEN ALI Jihed",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "BEN CHEIKH FREDJ Mohamed",
+              "player2": "RABOUDI Talel",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 11
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "MENIF Mehdi",
+              "player2": "EL BEHI Mohamed",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 15
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "BEN CHIEKH Leith",
+              "player2": "HAOUAS Alaa",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            }
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "AMMAR Scander",
+              "player2": "MLIKA Fedi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "set1A": 9,
+              "set1B": 0,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "GOUIDER Kais",
+              "player2": "SASSI Ramzi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 16
+            },
+            "teamB": {
+              "player1": "TBD",
+              "player2": "Q4",
+              "isBye": false,
+              "isWildCard": false
+            }
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "KHAL LTAIEF Mohamed",
+              "player2": "KARKACH Rayen",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 14
+            },
+            "teamB": {
+              "player1": "BOUZOUITA Walid",
+              "player2": "GHEDIRA Aziz",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 17
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "MESSELMANI Taha",
+              "player2": "KADDOUR Faycel",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 9,
+            "teamA": {
+              "player1": "CHATER Iheb",
+              "player2": "BEN HASSEN Ameur",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 10,
+            "teamA": {
+              "player1": "BEN FRAJ Skander",
+              "player2": "OUESLATI Mohamed amine",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 9
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 11,
+            "teamA": {
+              "player1": "ABDELMOULA Mehdi",
+              "player2": "BOUBAKER Youssef",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 12
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 12,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "DAALOUL Bacem",
+              "player2": "BEN JEDDOU Amine",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            }
+          },
+          {
+            "round": 1,
+            "position": 13,
+            "teamA": {
+              "player1": "SASSI Moez",
+              "player2": "CHEBLI Achraf",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 14,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "CHEBIL Mouadh",
+              "player2": "LOUHICHI Adam",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 10
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 15,
+            "teamA": {
+              "player1": "BEN ARFI Adam",
+              "player2": "BEN ARFI Bediss",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 13
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 16,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "MEHDI Abdennebi",
+              "player2": "BEN SMIDA Fares",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 2
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          }
+        ]
+      }
+    },
+    "p1000": {
+      "final": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "REDONDO Javier",
+              "player2": "ELLOUMI Mehdi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "BECHEUR Rami",
+              "player2": "LAADHARI Sedki",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            },
+            "teamB": {
+              "player1": "CHEBLI Achraf",
+              "player2": "HAOUAS Alaa",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 10
+            }
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "FREIXAS Albert",
+              "player2": "KALLEL Riadh",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 4
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "BEN JEDDOU Amine",
+              "player2": "ALOUINI Youssef",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 9
+            },
+            "teamB": {
+              "player1": "GONGI Hedi",
+              "player2": "MLIKA Fedi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "EL AROUI Selim",
+              "player2": "HELALI Aziz",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            },
+            "teamB": {
+              "player1": "BEN DHIAF Youssef",
+              "player2": "OUALI Chiheb",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "BOUGUERRA Maher",
+              "player2": "FREIXAS Josep",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            }
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "DERBEL Youssef",
+              "player2": "MEHDI Abdennebi",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 11
+            },
+            "teamB": {
+              "player1": "BADRI Hichem",
+              "player2": "TRIKI Arbi",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 12
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "DABBABI Youssef",
+              "player2": "CHOUAIEB Yassine",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 2
+            }
+          }
+        ]
+      }
+    },
+    "p50f": {
+      "final": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "BOUSSAADIA Asma",
+              "player2": "DRISS Leila",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "CHIKHAOUI Ines",
+              "player2": "BEN KAHLA Nawrass",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "BEN ABDESSLEM Aroua",
+              "player2": "GHARBI Emna",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 10
+            },
+            "teamB": {
+              "player1": "MOKNI Sirine",
+              "player2": "COLAS Léa",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            }
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "NADA Toumi",
+              "player2": "BARHOUMI Nada",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            },
+            "teamB": {
+              "player1": "BOUZRARA Emna",
+              "player2": "BEN ALI Nourhene",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            },
+            "score": {
+              "set1A": 7,
+              "set1B": 3,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "DJOMAA Zahra",
+              "player2": "MOKNI Farah",
+              "isBye": false,
+              "isWildCard": true
+            },
+            "teamB": {
+              "player1": "BENZARTI Nour el houda",
+              "player2": "HAGGUI Eya",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            },
+            "score": {
+              "set1A": 4,
+              "set1B": 3,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "MANI Imen",
+              "player2": "MANI Ines",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 12
+            },
+            "teamB": {
+              "player1": "STAMBOULI Imen",
+              "player2": "STAMBOULI Sahar",
+              "isBye": false,
+              "isWildCard": false
+            },
+            "score": {
+              "set1A": 1,
+              "set1B": 0,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "AMAMOU Rania",
+              "player2": "CHTIOUI Ameni",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            },
+            "teamB": {
+              "player1": "ZHIR Rihem",
+              "player2": "BATBOUT Olfa",
+              "isBye": false,
+              "isWildCard": false
+            },
+            "score": {
+              "set1A": 0,
+              "set1B": 1,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "MASMOUDI Razane",
+              "player2": "JALLOULI Fatma",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 11
+            },
+            "teamB": {
+              "player1": "SASSY Salma",
+              "player2": "LAARIF Cyrine",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 9
+            },
+            "score": {
+              "set1A": 9,
+              "set1B": 3,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "YAZIDI Nadia",
+              "player2": "LIMEM Olfa",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 2
+            },
+            "teamB": {
+              "player1": "TBD",
+              "player2": "TBD",
+              "isBye": false,
+              "isWildCard": false
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          }
+        ]
+      }
+    },
+    "p100f": {
+      "final": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "BEN HAMAD Sonia",
+              "player2": "GUEBLAOUI Azza",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "MARAAOUI Feriel",
+              "player2": "BEN ABDALLAH Asma",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "COLAS Léa",
+              "player2": "BOUSSAADIA Asma",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "LAARIF Cyrine",
+              "player2": "SASSY Salma",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 9
+            },
+            "teamB": {
+              "player1": "GARNAOUI Zeineb",
+              "player2": "DRISS Leila",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            }
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "CHIKHAOUI Ines",
+              "player2": "BEN KAHLA Nawrass",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "ZHIR Yasmine",
+              "player2": "HAJJAJI Mejda",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            }
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "FATNASSI Sirine",
+              "player2": "KRIFA Helene",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            },
+            "score": {
+              "set1A": 5,
+              "set1B": 0,
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "ZAYANI Alya",
+              "player2": "HABBEJ Farah",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 2
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          }
+        ]
+      }
+    },
+    "p500f": {
+      "final": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "AMMAR Yasmine",
+              "player2": "ZAYANI Lilia",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "BEN HAMAD Sonia",
+              "player2": "GUEBLAOUI Azza",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            }
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "BACCOUCHE Eya",
+              "player2": "KRIAA Ritej",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "BEN HASSINE FAYROUZ",
+              "player2": "ZIDI Zaineb",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 8
+            }
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "HABBEJ Farah",
+              "player2": "ZAYANI Alya",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "KILANI Aya",
+              "player2": "JAMOUSSI Fatma",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            }
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "AMAMOU Rania",
+              "player2": "HAJJAJI Mejda",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "SAID EL MABROUK Randa",
+              "player2": "BEN SEDRINE Wiem",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 2
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          }
+        ]
+      }
+    },
+    "p1000f": {
+      "final": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "ALLANI Nour",
+              "player2": "CHEMLI Dorra",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "EL MABROUK Randa",
+              "player2": "BACCOUCHE Eya",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 7
+            }
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "FENDRI Selima",
+              "player2": "HANDOUS Amira",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "AMMAR Yasmine",
+              "player2": "MZID Farah",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            }
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "KILANI Aya",
+              "player2": "JAMOUSSI Fatma",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "MORNAGUI Fatma",
+              "player2": "ZAYANI Lilia",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            }
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "HAMROUNI Cyrine",
+              "player2": "JERIBI Ghaida",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            },
+            "teamB": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "BYE",
+              "player2": "",
+              "isBye": true
+            },
+            "teamB": {
+              "player1": "BAHRI Ferdaous",
+              "player2": "AUBERTIN Sarah lisa",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 2
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          }
+        ]
+      }
+    },
+    "p100-mixte": {
+      "final": {
+        "round1": [
+          {
+            "round": 1,
+            "position": 1,
+            "teamA": {
+              "player1": "BEN MAHMOUD Mehdi",
+              "player2": "HABBEJ Farah",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 1
+            },
+            "teamB": {
+              "player1": "GUELLIM Yasmine",
+              "player2": "GUELLIM Mohamed ilyess",
+              "isBye": false,
+              "isWildCard": false
+            }
+          },
+          {
+            "round": 1,
+            "position": 2,
+            "teamA": {
+              "player1": "KNANI Latifa",
+              "player2": "ZOUARI Achref",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 15
+            },
+            "teamB": {
+              "player1": "ZHIR Yasmine",
+              "player2": "GALAI Mohamed",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 5
+            }
+          },
+          {
+            "round": 1,
+            "position": 3,
+            "teamA": {
+              "player1": "MOUSSA Marwen",
+              "player2": "STAMBOULI Sahar",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            },
+            "teamB": {
+              "player1": "MASMOUDI Nizar",
+              "player2": "SELLAMI Noura",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 6
+            }
+          },
+          {
+            "round": 1,
+            "position": 4,
+            "teamA": {
+              "player1": "FETNI Fadhl",
+              "player2": "BEN ABDALLAH Asma",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 7
+            },
+            "teamB": {
+              "player1": "MOATEMRI Mehdi",
+              "player2": "LAARIF Khadija",
+              "isBye": false,
+              "isWildCard": false
+            }
+          },
+          {
+            "round": 1,
+            "position": 5,
+            "teamA": {
+              "player1": "AHMED Zayen",
+              "player2": "ZIDI Zeineb",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 10
+            },
+            "teamB": {
+              "player1": "GAALOUL Majdi",
+              "player2": "KRIFA Helene",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 8
+            },
+            "score": {
+              "winnerSide": "A",
+              "status": "completed"
+            }
+          },
+          {
+            "round": 1,
+            "position": 6,
+            "teamA": {
+              "player1": "FATNASSI Sirine",
+              "player2": "SLAMA Mohamed aziz",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 11
+            },
+            "teamB": {
+              "player1": "YOUSSEF Mkaouar",
+              "player2": "HAJJAJI Mejda",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 3
+            }
+          },
+          {
+            "round": 1,
+            "position": 7,
+            "teamA": {
+              "player1": "DAHMANI Nabil",
+              "player2": "SASSY Salma",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 4
+            },
+            "teamB": {
+              "player1": "MANI Mariem",
+              "player2": "LASMER Ahmed Amine",
+              "isBye": false,
+              "isWildCard": true,
+              "seed": 18
+            }
+          },
+          {
+            "round": 1,
+            "position": 8,
+            "teamA": {
+              "player1": "MASMOUDI Mohamed",
+              "player2": "MASMOUDI Razane",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 14
+            },
+            "teamB": {
+              "player1": "EL BEHI Mohamed",
+              "player2": "BARHOUMI Nada",
+              "isBye": false,
+              "isWildCard": false,
+              "seed": 2
+            }
+          }
+        ]
+      }
+    }
+  }
+}

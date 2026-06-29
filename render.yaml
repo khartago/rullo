@@ -15,7 +15,7 @@ services:
     region: frankfurt
     branch: main
     autoDeployTrigger: commit
-    buildCommand: npm ci && npx prisma db push && npm run db:seed && npm run build
+    buildCommand: npm ci --include=dev && npx prisma db push && npm run db:seed && npm run build
     startCommand: npm start
     healthCheckPath: /api/health
     envVars:
